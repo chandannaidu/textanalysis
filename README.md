@@ -10,8 +10,9 @@ setup:
  2) Open cmd move to $ cd Desktop/textanalysis
  3) Run $docker-compose build 
  4) Run $docker-compose up
- 
-    server starts running in localhost:5000/
+    
+    using postman application its easy to request
+    server starts listening at localhost:5000/
     
  5) Use method Post to request 
  6) At end Run $docker-compose down 
