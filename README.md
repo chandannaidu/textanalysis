@@ -14,5 +14,5 @@ setup:
     using postman application its easy to request
     server starts listening at localhost:5000/
     
- 5) Use method Post to request 
+ 5) Use method Post to requests 
  6) At end Run $docker-compose down 
